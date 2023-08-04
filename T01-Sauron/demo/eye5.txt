@@ -1,0 +1,4 @@
+#lote 1
+car,20SD25
+car,20SD24
+person,123
